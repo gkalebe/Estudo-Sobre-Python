@@ -1,0 +1,11 @@
+print(10 + 10 + 20000)
+print(1.5 + 10 + 3.2)
+print(True)
+print(False)
+print("Python")
+print('p')
+
+int()
+float()
+str()
+bool()
